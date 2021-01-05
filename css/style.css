@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.header-area{
+    width: 90%;
+
+}
+.header-area ul{
+    list-style: none;
+    float: right;
+}
+.header-area ul li{
+    display: inline-block;
+    padding: 10px 20px;
+   
+}
+.header-area ul li a{
+    text-decoration: none;
+    color: #3B3B3B;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
