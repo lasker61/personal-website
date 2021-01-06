@@ -126,6 +126,35 @@ p{
    margin-bottom: 0px;
 }
 
+.skills-area{
+   background-color: #FFFFFF;
+   text-align: center;
+   padding-bottom: 40px;
+}
+.skills-area h1{
+    margin-bottom: 0px;
+}
+.skills-area .skills-inner{
+    width: 20%;
+    display: inline-block;
+    padding: 0px 10px;
+}
+
+.skills-area .skills-inner p{
+    text-align: justify;
+    font-size: 14px;
+    
+}
+
+.skills-area .skills-inner h5{
+    color: #3E3E3E;
+    
+}
+
+
+
+
+
 /* }
 .inquery-inner h1{
     width: 45%;
@@ -144,6 +173,7 @@ p{
 } 
 
  */
+
 .work-inquery{
    padding-top: 50px;
    margin-bottom: -270px;
